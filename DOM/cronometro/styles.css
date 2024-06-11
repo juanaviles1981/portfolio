@@ -9,7 +9,6 @@ body {
   justify-content: center;
   align-items: center;
   text-align: center;
-  background: url("images/madera.jpg") no-repeat center center/ cover;
 }
 
 .contenedor-principal {
@@ -22,12 +21,12 @@ body {
   align-items: center;
   background-color: whitesmoke;
   border-radius: 30px;
-  border: 5px solid brown;
+  border: 5px solid rgb(15, 5, 5);
 }
 
 .contenedor-interno {
   border-radius: 50px;
-  border: 5px solid brown;
+  border: 5px solid rgb(29, 1, 1);
 }
 
 .contenedor-botones {
@@ -50,7 +49,6 @@ body {
   padding: 10px;
   cursor: pointer;
 }
-
 
 #boton-inicio-pausa.iniciar,
 #boton-inicio-pausa.iniciar i {
